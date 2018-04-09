@@ -1,4 +1,6 @@
 {
+  "entrypoint": "index.html",
+  "shell": "test-header.html",
   "lint": {
     "rules": [
       "polymer-2"
